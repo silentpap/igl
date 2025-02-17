@@ -1,7 +1,7 @@
 {
   "status":"fatal",
-  "msg": "Sorry!",
-  "title": "There is a high chance that I may get into trouble because of this app. So, for my safety, I am disabling it. Thank you once again for trying the app.",
+  "msg": "There is a high chance that I may get into trouble because of this app. So, for my safety, I am disabling it. Thank you once again for trying the app.",
+  "title": "Sorry!",
   "src": "https://www.reddit.com/r/IndiasGotLatent/",
   "cancellable":false
 }
